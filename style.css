@@ -1,0 +1,10 @@
+#imagenes{
+	max-height: 600px;
+	height: 480px;
+	width: 100%;
+}
+@media only screen and (max-width: 780px){
+	#imagenes{
+		height: 300px;
+	}
+}
